@@ -8,3 +8,6 @@
 ### 3_mystery/
 * [_](<blog/3_mystery/_.html>)  ([md](<blog/3_mystery/_.md>))
 ---
+### 99_others/
+* [_](<blog/99_others/_.html>)  ([md](<blog/99_others/_.md>))
+---
